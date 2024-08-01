@@ -1,0 +1,12 @@
+{
+  "name": "connect-food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Alexandre Retamero <alexandreretamero@gmail.com>",
+  "packageManager": "yarn@1.22.22",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
